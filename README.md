@@ -1,5 +1,5 @@
-### Hi there 👋
 
+<img src="https://github.com/ivanyeungtc/ivanyeungtc/download.png" alt="Ivan Yeung - Solution Architect, Data Scientist & Project Manager">
 <!--
 **ivanyeungtc/ivanyeungtc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
